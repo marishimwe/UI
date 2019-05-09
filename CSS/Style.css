@@ -1,0 +1,176 @@
+#block_page{
+
+	height:1200px;
+
+}
+#header{
+	height:90px;
+	background-color:#00ffff ;
+	border:;
+	
+}
+#upright_bar{
+	text-align: right;	
+	width:350px;
+	
+	height:20px;
+	margin-top: 20px;
+}
+ul{
+	background-color:;
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	float:right;
+}
+
+li {
+	float: left;
+
+}
+#section a{
+	color:white;
+}
+li a{
+	display:block;
+	color:#333333;
+	text-align: center;
+	padding:20px;
+	text-decoration: none;
+}
+li a:hover{
+	background-color: #111111;
+}
+#title{
+	width:200px;
+	height:30px;
+	margin-top: 20px;
+	font-size: 1.7em;
+	color:black;
+	font-family: Arial;
+	padding-top: 30px;
+	padding-left:30px;
+	
+	
+}
+a{
+	padding-left: 20px;
+	text-decoration: none;
+	color:black;
+	font-size: 1em;
+}
+a:hover{
+	color: green;
+}
+#section{
+	height:900px;
+	background: url('../Images/cash.jpg') no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    vertical-align: top;
+}
+#intro{
+	width:500px;
+	padding-left: 50px;
+	margin-left: 150px;	
+}
+#intro h1{
+	font-size: 3em;
+	text-align: center;
+}
+#intro h2{
+	text-align: center;
+}
+#log{
+	width:300px;
+	height:320px;
+	background-color: #ff9999;
+	padding-left: 20px;
+	border-radius: 10px;
+}
+#intro,#log{
+	display:inline-block;
+	margin-top: 150px;
+	margin-left:100px;
+}
+.log1{
+	height:60px;
+}
+.log1 input{
+	height:40px;
+	width:280px;
+} 
+#reset a{
+	font-size:0.8em;
+	margin-left: 20px;
+
+}
+#buttonlog input{
+	width:90px;
+	height:40px;
+	background-color: #bfbf8c;
+	border-radius: 5px;
+}
+
+
+#buttonlog,#reset{
+	display:inline-block;
+}
+#appform{
+	margin:auto;
+	width:900px;
+	background-color: white;
+	padding-left:20px;
+	padding-top: 50px;
+}
+.form1{
+	margin-top: 20px;
+}
+#comment input{
+	height:150px;
+	width:600px;
+}
+#appform h2{
+ text-align: center;
+ font-size: 2em;
+}
+h3{
+	color: #00bfff;
+}
+#sub input{
+	width:150px;
+	height:30px;
+	margin-left:150px;
+	margin-top:20px;
+	background-color: #ffff99;
+	border-radius: 7px;
+}
+#sign{
+	width:400px;
+	height:550px;
+	margin:auto;
+	padding-left: 50px;
+	padding-top:50px;
+	border-radius: 5px;
+}
+#buttonsign input{
+    width:280px;
+	height:40px;
+	background-color: #bfbf8c;
+}
+footer{
+	text-align: center;
+}
+#signpart{
+	height:900px;
+	background: url(../Images/imgloan.jpg) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    vertical-align: top;
