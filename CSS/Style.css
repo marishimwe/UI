@@ -64,8 +64,8 @@ a:hover{
 	color: green;
 }
 #section{
-	height:900px;
-	background: url('./cash.jpg') no-repeat center;
+    height:900px;
+    background: url('cash.jpg') no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
