@@ -3,7 +3,7 @@ function myFunction(){
 	var passWord=document.getElementById("password").value;
 	if (userName == "user" && passWord == "user" ){
 	alert("Login successfully");
-	window.location ="application form.html";
+	window.location ="Application_form.html";
 	}
 	else if (userName =="admin" && passWord == "admin"){
 	alert("welcome admin");
